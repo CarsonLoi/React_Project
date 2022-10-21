@@ -1,0 +1,13 @@
+.mapAreaWrapper {
+  width: auto;
+  overflow-x: auto;
+ 
+}
+
+#NB0102 {
+  fill: green;
+}
+
+#NB1108 , #NB1110 {
+  fill: red;
+}

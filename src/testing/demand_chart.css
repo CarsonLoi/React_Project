@@ -1,0 +1,14 @@
+.chartWrapper {
+  /* w w w. j a v  a2 s.co  m*/
+  position: relative;
+}
+.chartWrapper > .Row {
+  position: absolute;
+  left: 0;
+  top: 0;
+  pointer-events: none;
+}
+.chartAreaWrapper {
+  width: 1120px;
+  overflow-x: auto;
+}

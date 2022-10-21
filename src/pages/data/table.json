@@ -1,0 +1,26 @@
+{
+  "1": [
+    { "price": "$500", "current": "20", "proposed": "22", "var": "+2" },
+    { "price": "$1,000", "current": "10", "proposed": "6", "var": "-4" },
+    { "price": "$2,000", "current": "2", "proposed": "2", "var": "0" }
+  ],
+  "2": [
+    { "price": "$500", "current": "0", "proposed": "10", "var": "+10" },
+    { "price": "$1,000", "current": "8", "proposed": "6", "var": "-2" },
+    { "price": "$2,000", "current": "0", "proposed": "2", "var": "+2" }
+  ],
+  "3": [
+    { "price": "$500", "current": "0", "proposed": "10", "var": "+10" },
+    { "price": "$1,000", "current": "8", "proposed": "6", "var": "-2" },
+    { "price": "$2,000", "current": "0", "proposed": "2", "var": "+2" }
+  ],
+  "4": [
+    { "price": "$500", "current": "0", "proposed": "10", "var": "+10" },
+    { "price": "$1,000", "current": "8", "proposed": "6", "var": "-2" },
+    { "price": "$2,000", "current": "0", "proposed": "2", "var": "+2" }
+  ],
+  "5": [
+    { "price": "$1,000", "current": "8", "proposed": "6", "var": "-2" },
+    { "price": "$2,000", "current": "0", "proposed": "2", "var": "+2" }
+  ]
+}
